@@ -16,7 +16,7 @@
   align-items: center;
   padding:25px;
   min-height: 100vh;
-  background: linear-gradient(90deg, pink 60%, pink 40.1%);
+  background: linear-gradient(90deg, antiquewhite 60%, antiquewhite 40.1%);
 }
 
 .container form{
@@ -83,12 +83,12 @@
   width: 100%;
   padding:12px;
   font-size: 17px;
-  background: pink;
-  color:#fff;
+  background: antiquewhite;
+  color:#333;
   margin-top: 5px;
   cursor: pointer;
 }
 
 .container form .submit-btn:hover{
-  background: pink;
+  background: antiquewhite;
 }
